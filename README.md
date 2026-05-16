@@ -1,4 +1,4 @@
-# All-in-One Runtime Installer
+# System Runtimes Installer
 
 ## Download and extract the release
 1. Open the **Releases** page for this repository.
